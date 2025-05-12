@@ -1,0 +1,12 @@
+# ignore dataset folder entirely
+dataset/
+
+# ignore all .npy data files
+*.npy
+
+# ignore PyTorch weight files
+*.pth
+
+# ignore Jupyter checkpoint dirs
+.ipynb_checkpoints
+
