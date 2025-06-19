@@ -186,7 +186,7 @@ The repository includes several performance visualization files:
 - `DDCNN2D_training_history.png` - Deep CNN training progress  
 - `modulation_accuracy_heatmap.png` - Classification accuracy heatmap
 - `modulation_accuracy_subplots.png` - Detailed accuracy analysis
-- `all_modulations_accuracy.png` - Overall performance across modulation types
+- `all_modulations_accuracy.png` - Overall performance across modulation types 
 
 ### Supported Modulation Types
 
@@ -255,15 +255,28 @@ Contributions are welcome! Please follow these steps:
 
 ## References
 
-1. O'Shea, T. J., & Hoydis, J. (2017). An introduction to deep learning for the physical layer. IEEE Transactions on Cognitive Communications and Networking.
+1. Kong, W., Jiao, X., Xu, Y., & Yang, Q. (2025). An effective masked Transformer model for automatic modulation recognition. IEEE Transactions on Cognitive Communications and Networking.
 
-2. West, N. E., & O'Shea, T. (2017). Deep architectures for modulation recognition. IEEE International Symposium on Dynamic Spectrum Access Networks.
+2. Kong, W., Jiao, X., Xu, Y., & Yang, Q. (2025). An effective masked Transformer model for automatic modulation recognition. IEEE Transactions on Cognitive Communications and Networking.
+   
+3. Ma, W., Cai, Z., & Wang, C. (2024). A Transformer and convolution-based learning framework for automatic modulation classification. IEEE Communications Letters, 28(6), 1392–1396.
+   
+4.Huynh-The, T., Hua, C. H., Pham, Q.-V., & Kim, D.-S. (2020). MCNet: An efficient CNN architecture for robust automatic modulation classification. IEEE Communications Letters, 24(4), 811–814.
 
-3. O'Shea, T. J., Corgan, J., & Clancy, T. C. (2016). Convolutional radio modulation recognition networks. Engineering Applications of Neural Networks.
+5. P, D., Das, D., & Bora, P. K. (2020). Dense layer dropout based CNN architecture for automatic modulation classification. 2020 IEEE Conference on Signal Processing, Computing and Control (ISPCC).
 
-## License
+6. Abdulkarem, A. M., Abedi, F., Ghanimi, H. M. A., et al. (2022). Robust automatic modulation classification using convolutional deep neural network based on scalogram information. Computers, 11(11), 162.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+7. Pu, X., Luo, C., Yin, Y., Liu, Z., & Luo, Y. (2024). Chromosomal mutation-inspired radio augmentation for enhanced automatic modulation classification. IEEE Internet of Things Journal, 11(24), 41124–41136.
+
+8. Rajendran, S., Meert, W., Giustiniano, D., Lenders, V., & Pollin, S. (2018). Deep learning models for wireless signal classification with distributed low-cost spectrum sensors. IEEE Transactions on Cognitive Communications and Networking, 4(3), 433–445.
+
+9. Chandhok, S., Joshi, H., Darak, S. J., & Subramanyam, A. V. (2020). LSTM guided modulation classification and experimental validation for sub-Nyquist rate wideband spectrum sensing. 2020 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN).
+
+10. Chandhok, S., Joshi, H., Darak, S. J., & Subramanyam, A. V. (2020). LSTM guided modulation classification and experimental validation for sub-Nyquist rate wideband spectrum sensing. 2020 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN).
+
+11. Huynh-The, T., Pham, Q.-V., Nguyen, T.-V., Nguyen, T. T., Ruby, R., Zeng, M., & Kim, D.-S. (2021).
+Automatic modulation classification: A deep architecture survey. IEEE Access, 9, 142950–142973.
 
 ## Acknowledgments
 
