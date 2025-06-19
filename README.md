@@ -186,6 +186,8 @@ Based on recent training results:
 
 ![CNN Training History](improvement_notebook/all_modulations_accuracy.png)
 
+![CNN Training History](improvement_notebook/modulation_accuracy_heatmap.png)
+
 The repository includes several performance visualization files:
 - `CNN_NET_training_history.png` - CNN training curves
 - `DDCNN2D_training_history.png` - Deep CNN training progress  
