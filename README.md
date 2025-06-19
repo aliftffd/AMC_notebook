@@ -173,11 +173,14 @@ Combines spatial and temporal feature extraction:
 
 Based on recent training results:
 
-| Model | Configuration | Accuracy | Notes |
-|-------|---------------|----------|-------|
-| CNN | Initial Training | ~60.9% | Stable training achieved |
-| Improved CNN2 | Enhanced Architecture | TBD | Under development |
-| DDCNN | Deep CNN | TBD | Experimental |
+| Model             | Configuration            | Accuracy | Notes                                        |
+|------------------|--------------------------|----------|----------------------------------------------|
+| CNN              | Initial Training          | ~60.9%   | Stable training achieved                     |
+| Improved CNN2    | Enhanced Architecture     | TBD      | Under development                            |
+| DDCNN            | Deep CNN                  | TBD      | Experimental                                 |
+| Transformer       | Full-scale Transformer    | TBD      | Uses self-attention for global dependencies  |
+| Tiny Transformer | Lightweight Transformer   | TBD      | Optimized for low-power edge devices         |
+
 
 ### Training Progress Visualizations
 
