@@ -1,6 +1,5 @@
 # AMC Notebook - Automatic Modulation Classification using Deep Learning
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-96.9%25-orange.svg)
 ![Python](https://img.shields.io/badge/python-3.1%25-blue.svg)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
