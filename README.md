@@ -41,7 +41,8 @@ The project focuses on CNN-based approaches with comprehensive dataset explorati
 ## Requirements
 
 - Python 3.8 or higher
-- TensorFlow 2.x / PyTorch
+- PyTorch
+- h5py 
 - NumPy
 - SciPy
 - Matplotlib
