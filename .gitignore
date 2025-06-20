@@ -9,4 +9,4 @@ dataset/
 
 # ignore Jupyter checkpoint dirs
 .ipynb_checkpoints
-
+__pycache__
