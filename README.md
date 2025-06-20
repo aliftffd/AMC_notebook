@@ -86,9 +86,6 @@ Your ideas and contributions are highly encouraged! Whether it's bug fixes, new 
 
 Let’s advance AMC research side by side! 🚀
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📚 References
 
